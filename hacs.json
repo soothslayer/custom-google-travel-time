@@ -1,4 +1,6 @@
 {
   "name": "Simple Google Travel Time Custom Components",
+  "content_in_root": false,
+  "render_readme: true,
   "iot_class": ["Assumed Sate", "Local Push"]
 }
